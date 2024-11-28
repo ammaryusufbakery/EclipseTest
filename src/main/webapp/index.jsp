@@ -5,9 +5,9 @@
 <head>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
+<link rel="stylesheet" href="index.css">
 </head>
 <body>
 <h1>Hello</h1>
-<h2>Ammar</h2>
 </body>
 </html>
